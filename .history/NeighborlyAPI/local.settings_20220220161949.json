@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "FUNCTIONS_EXTENSION_VERSION": "~4",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "106b132b-30eb-469e-92e5-fe766ffe6188",
+    "APPLICATIONINSIGHTS_CONNECTION_STRING": "InstrumentationKey=106b132b-30eb-469e-92e5-fe766ffe6188;IngestionEndpoint=https://southcentralus-3.in.applicationinsights.azure.com/",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=neighborlystorageaccount;AccountKey=XFMql9mUKlBwwIgMBTTR5zZ7ZO0YnfcPUreylHRFqr/J/Ev/UBMxQgWxq8S0ct4/FrPARbFEsTA0ce3TtANE+Q==;EndpointSuffix=core.windows.net",
+    "MyDBConnection": "mongodb://neighborlyappcdb:bZOrwNtxyzVfuY6vUAkhVYc13GrFbLXKSuYcKnxLKzd9PrhYAY63geOF5YT1U7ddghwhk8l3CD7wVrqsicINmg==@neighborlyappcdb.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@neighborlyappcdb@",
+    "SendGridAPI": "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"
+  },
+  "ConnectionStrings": {}
+}
